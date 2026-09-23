@@ -1,4 +1,4 @@
-# Pamela Porto
+# 👩🏻‍💻 Pamela Porto
 
 **`Instructor Electronics | Arduino | Hardware`**
 
@@ -10,7 +10,15 @@ full-stack programming, Arduino, electronics, networking, administration and man
 
 I also have a [YouTube](https://www.youtube.com/@iPamWth) channel—you might want to check it out!
 
-
+<img 
+  align="right" 
+  alt="C#"
+  title="C#" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"          
+/> 
+        
 <p align="left">
   <a href="https://www.youtube.com/@iPamWth">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -41,7 +49,7 @@ int main(void)
 
 ---
 
-## **Programming Languages ​​and Others**
+## 🤖 **Programming Languages ​​and Others**
 
 <img 
   align="left" 
