@@ -139,3 +139,17 @@ int main(void)
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"          
 />           
+### 📊 Estatísticas e Tecnologias
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>📈 Estatísticas do GitHub Zyllra</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=PamWth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200">
+    </td>
+    <td align="center">
+      <strong>🧠 Tecnologias</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamWth&theme=tokyonight&layout=compact&custom_title=Tecnologias+utilizadas&langs_count=7" height="200">
+    </td>
+  </tr>
+</table>
